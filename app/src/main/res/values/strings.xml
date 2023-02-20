@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginandRegiterationwithForgotPasswordScreen</string>
+    <string name="click_here_to_regiteration_if_you_have_not_any_account">Click Here to Regiteration if you have not any account</string>
+    <string name="login">Login</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="login_page">Login Page</string>
+    <string name="log_in">Log in</string>
+</resources>
